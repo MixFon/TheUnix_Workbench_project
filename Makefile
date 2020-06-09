@@ -1,7 +1,7 @@
 
 README.md: 
 	touch README.md
-	echo "# Bash, Make, Git, and GitHub" > README.md
+	echo "# TheUnix_Workbench_project" > README.md
 	echo "date:" >> README.md
 	date >> README.md
 	echo "Count lines:" >> README.md
