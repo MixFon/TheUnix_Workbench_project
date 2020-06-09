@@ -1,6 +1,6 @@
 #!/bin/bash
 
-count=$(ls -1 | wc -l)
+count=$(ls -1a | wc -l)
 
 function work
 {
